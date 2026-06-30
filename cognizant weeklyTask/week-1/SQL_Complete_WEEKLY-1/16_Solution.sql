@@ -1,0 +1,2 @@
+-- Question 16
+-- Place your solution here or use the previously provided query.

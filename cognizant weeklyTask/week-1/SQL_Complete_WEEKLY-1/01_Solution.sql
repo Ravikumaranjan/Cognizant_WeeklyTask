@@ -1,0 +1,2 @@
+-- Question 1
+-- Place your solution here or use the previously provided query.
