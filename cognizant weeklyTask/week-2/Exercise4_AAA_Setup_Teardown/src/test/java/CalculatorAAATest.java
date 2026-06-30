@@ -1,0 +1,1 @@
+import org.junit.*;import static org.junit.Assert.*;public class CalculatorAAATest{Calculator c;@Before public void setUp(){c=new Calculator();}@After public void tearDown(){c=null;}@Test public void testMultiply(){assertEquals(20,c.multiply(4,5));}}
